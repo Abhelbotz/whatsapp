@@ -17,7 +17,7 @@
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/LoL-Human/Case-WA-Bot.git
+> git clone https://github.com/Abhelbotz/whatsapp.git
 > cd Case-WA-Bot
 ```
 
@@ -32,7 +32,7 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 {
     "apikey": "",
     "prefix": "/",
-    "owner": "62895418200111"
+    "owner": "6282258910703"
 }
 ```
 
@@ -104,7 +104,7 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 * `Broadcast`
 
 ## Note:
-* You can request a case in my [`WhatsApp`](http://wa.me/62895418200111).
+* You can request a case in my [`WhatsApp`](http://wa.me/6282258910703).
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
@@ -117,3 +117,4 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 * [`Sofyan`](https://github.com/SofyanAMV09)
 * [`Riz`](https://github.com/riznih)
 * [`Paul`]
+* [`Abhelbotz`](https://github.com/Abhelbotz)
