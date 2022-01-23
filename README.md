@@ -38,6 +38,7 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 
 ## Run the bot
 ```cmd
+> npm audit fix
 > npm start
 ```
 
