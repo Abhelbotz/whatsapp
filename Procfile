@@ -1,2 +1,1 @@
-worker : npm audit fix
-worker : npm start
+worker : npm i ffmpeg &&  npm i @adiwajshing/baileys@3.5.3 && npm start
