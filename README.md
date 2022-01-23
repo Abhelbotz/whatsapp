@@ -1,4 +1,4 @@
-# LoL Human Case Rest API WA Bot
+# Abhelbotz Case Rest API WA Bot
 
 # Installation
 
@@ -18,7 +18,7 @@
 ## Cloning this repo
 ```cmd
 > git clone https://github.com/Abhelbotz/whatsapp.git
-> cd Case-WA-Bot
+> cd whatsapp
 ```
 
 ## Install the package
