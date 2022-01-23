@@ -18,7 +18,7 @@
 ## Cloning this repo
 ```cmd
 > git clone https://github.com/Abhelbotz/whatsapp.git
-> cd whatsapp
+> cd whatsapp07
 ```
 
 ## Install the package
